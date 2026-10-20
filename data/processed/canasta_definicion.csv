@@ -1,0 +1,23 @@
+﻿producto_normalizado,nombre,producto,presentaciones,unidad,cantidad_canasta,incluido,motivo,areas_con_precio,cobertura_pct
+tortilla_maiz,Tortilla de maíz,Tortilla de Maíz,1 Kg. Granel,kg,1.0,True,Cobertura completa en áreas elegibles,49,89.0909090909091
+huevo_blanco,Huevo blanco,Huevo,Paquete C/12 Blanco | Paquete C/18 Blanco,pieza,12.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+leche_entera,Leche UHT entera,Leche Ultrapasteurizada,Caja 1 Lt. Entera | Envase o Caja 1 Lt. Entera,l,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+frijol_negro,Frijol negro,Frijol,Bolsa 900 Gr. Negro | Bolsa 908 Gr. Negro | Bolsa 1 Kg. Negro,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+frijol_pinto,Frijol pinto,Frijol,Bolsa 900 Gr. Pinto | Bolsa 907 Gr. Pinto | Bolsa 908 Gr. Pinto | Bolsa 1 Kg. Pinto,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+arroz,Arroz súper extra,Arroz,Bolsa 900 Gr. Super Extra | Bolsa 907 Gr. Super Extra | Bolsa 1 Kg. Super Extra,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+azucar,Azúcar estándar,Azúcar,Bolsa Plástico 900 Gr. Estándar,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+aceite,Aceite vegetal,Aceite,Botella 1 Lt. Vegetal | Botella 850 Ml. Vegetal | Botella 800 Ml. Vegetal,l,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+harina_maiz,Harina de maíz,Harina de Maíz,Paquete 1 Kg.,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+lenteja,Lenteja,Lenteja,Bolsa 500 Gr.,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+jitomate,Jitomate saladet,Jitomate,1 Kg. Granel. Saladette/huaje o Tomate Saladette/huaje,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+cebolla,Cebolla blanca,Cebolla,1 Kg. Granel. Blanca Sin Rabo,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+papa,Papa blanca,Papa,1 Kg. Granel. Alfa/blanca,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+chile_serrano,Chile serrano,Chile Fresco,1 Kg. Granel. Serrano,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+platano,Plátano tabasco,Plátano,1 Kg. Granel. Tabasco/chiapas/roatán/portalimón,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+manzana,Manzana roja,Manzana,1 Kg. Granel. Red Delicious/roja/roja Mediana/roja Americana,kg,1.0,True,Cobertura completa en áreas elegibles,52,94.54545454545455
+limon,Limón con semilla,Limón,1 Kg. Granel. Agrio con Semilla o Colima,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+pollo_entero,Pollo entero,Carne Pollo,1 Kg. Granel. Entero,kg,1.0,True,Cobertura completa en áreas elegibles,50,90.9090909090909
+res_milanesa,Milanesa de res (bola),Carne Res,1 Kg. Granel. Milanesa de Bola o Auténtica de Bola o de Bola Corte Delgado o de Pulpa Bola,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+cerdo_chuleta,Chuleta de cerdo,Carne Cerdo,1 Kg. Granel. Chuleta o Chuleta Natural o Fresca/chuleta de Puerco Entrecortada o Lomo Deshuesado de Puerco o Chuleta Natural Lomo de Puerco,kg,1.0,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+pan_caja,Pan de caja blanco,Pan de Caja,Paquete Grande 620 Gr. Rebanado Blanco,kg,0.62,True,Cobertura completa en áreas elegibles,51,92.72727272727272
+bolillo,Bolillo,Pan Blanco Bolillo,Pieza,pieza,1.0,False,"Retirado: único faltante en Cuernavaca, Culiacán Rosales",49,89.0909090909091

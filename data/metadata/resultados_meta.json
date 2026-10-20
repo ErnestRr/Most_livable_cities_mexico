@@ -1,0 +1,13 @@
+{
+  "areas": 44,
+  "productos": 21,
+  "mediana_costo": 1007.25,
+  "mediana_seguridad": 34.66,
+  "rango_costo_pct": 13.1,
+  "spearman": -0.067,
+  "p_permutacion": 0.669,
+  "periodo_precios": "16–31 ago 2026",
+  "periodo_ensu": "junio 2026",
+  "fecha_inicio": "2026-08-17",
+  "fecha_fin": "2026-08-31"
+}

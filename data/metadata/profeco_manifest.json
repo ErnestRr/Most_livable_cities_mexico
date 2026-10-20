@@ -1,0 +1,27 @@
+{
+  "archivo": "08-2026_Q2.csv",
+  "sha256": "cfde30f577cc580d93f3f260a104f85491e42f3d3dae395520e50e33706a7ea3",
+  "bytes": 206979176,
+  "fuente_declarada": "PROFECO; archivo aportado por el usuario",
+  "url_descarga": null,
+  "verificacion_origen_oficial": "pendiente",
+  "codificacion_lectura": "utf-8-sig",
+  "separador": ",",
+  "resumen": {
+    "registros": 657602,
+    "columnas": 15,
+    "estados": 30,
+    "municipios_estado_municipio": 72,
+    "nombres_municipio_distintos": 70,
+    "establecimientos_clave_observada": 1857,
+    "establecimientos_identidad_completa": 1857,
+    "cadenas": 197,
+    "productos_nombre": 756,
+    "producto_presentaciones": 3222,
+    "variantes_producto_presentacion_marca": 3724,
+    "fecha_inicio": "2026-08-16",
+    "fecha_fin": "2026-08-31",
+    "dias_observados": 12,
+    "dias_calendario_ventana": 16
+  }
+}

@@ -1,0 +1,73 @@
+﻿municipio,estado,registros_profeco,establecimientos_profeco,establecimientos_autoservicio_area,cobertura_canasta_pct,area_ensu,tipo_correspondencia,dato_ensu,pasa_validacion,motivo_exclusion
+Acapulco de Juárez,Guerrero,13558,38,5.0,100.0,Acapulco de Juárez,directa,21.0718362377292,True,
+Aguascalientes,Aguascalientes,15867,48,5.0,100.0,Aguascalientes,aproximada/documentada,59.8976496326229,True,
+Atizapán de Zaragoza,Estado de México,6045,10,5.0,100.0,Atizapán de Zaragoza,directa,54.4519325793346,True,
+Atizapán,Estado de México,2,1,5.0,100.0,Atizapán de Zaragoza,directa,54.4519325793346,True,
+Azcapotzalco,Ciudad de México,10480,16,6.0,100.0,Azcapotzalco,directa,36.8560194498532,True,
+Benito Juárez,Ciudad de México,28804,25,15.0,100.0,Benito Juárez,directa,82.2608391695692,True,
+Benito Juárez,Quintana Roo,13119,45,6.0,100.0,Cancún,directa,29.6389248596472,True,
+Chihuahua,Chihuahua,1665,18,5.0,100.0,Chihuahua,directa,54.8057164206987,False,5 productos con precio de un solo establecimiento
+Nezahualcóyotl,Estado de México,8000,19,4.0,100.0,Ciudad Nezahualcóyotl,directa,57.9327900609981,True,
+Coyoacán,Ciudad de México,13354,27,10.0,100.0,Coyoacán,directa,56.7546948250461,True,
+Cuauhtémoc,Ciudad de México,12262,34,9.0,100.0,Cuauhtémoc,directa,47.3738829279875,True,
+Cuautitlán Izcalli,Estado de México,5653,14,4.0,100.0,Cuautitlán Izcalli,directa,24.7984059347207,True,
+Cuernavaca,Morelos,12929,43,5.0,100.0,Cuernavaca,aproximada/documentada,20.2394050081415,True,
+Culiacán,Sinaloa,4936,16,5.0,100.0,Culiacán Rosales,directa,9.21766746967376,True,
+Durango,Durango,12990,53,4.0,100.0,Durango,directa,55.3729117616376,True,
+Ecatepec de Morelos,Estado de México,14134,36,10.0,100.0,Ecatepec de Morelos,directa,21.3228755289842,True,
+General Escobedo,Nuevo León,2,1,,,General Escobedo,directa,59.0703059708422,False,Sin establecimientos de autoservicio en PROFECO
+Guadalajara,Jalisco,17602,70,7.0,100.0,Guadalajara,directa,21.6892326402408,True,
+Guadalupe,Nuevo León,672,14,,,Guadalupe,directa,55.146248085758,False,Sin establecimientos de autoservicio en PROFECO
+Gustavo a. Madero,Ciudad de México,9533,25,6.0,100.0,Gustavo A. Madero,directa,31.031114718063,True,
+Hermosillo,Sonora,15935,42,6.0,100.0,Hermosillo,directa,56.7575869440649,True,
+Puebla,Puebla,15437,44,5.0,100.0,Heroica Puebla de Zaragoza,aproximada/documentada,18.6700669598755,True,
+Iztacalco,Ciudad de México,2006,2,2.0,95.23809523809523,Iztacalco,directa,40.7135958513758,False,Menos de 3 establecimientos de autoservicio (2)
+Iztapalapa,Ciudad de México,13659,57,8.0,100.0,Iztapalapa,directa,26.74174850831,True,
+Juárez,Chihuahua,14630,52,6.0,100.0,Juárez,directa,36.2718515998447,True,
+Magdalena Contreras,Ciudad de México,1129,3,1.0,90.47619047619048,La Magdalena Contreras,directa,42.0757301929692,False,Menos de 3 establecimientos de autoservicio (1)
+La Paz,Baja California Sur,15978,53,5.0,100.0,La Paz,directa,60.2641230639331,True,
+León,Guanajuato,31512,82,10.0,100.0,León de los Aldama,aproximada/documentada,28.5762104941141,True,
+Miguel Hidalgo,Ciudad de México,14036,23,8.0,100.0,Miguel Hidalgo,directa,59.8263837163635,True,
+Monterrey,Nuevo León,14554,49,6.0,100.0,Monterrey,directa,42.7875274307237,True,
+Morelia,Michoacán,12022,43,6.0,100.0,Morelia,directa,29.477597020113,True,
+Mérida,Yucatán,12274,38,5.0,100.0,Mérida,aproximada/documentada,61.8160504839502,True,
+Naucalpan de Juárez,Estado de México,15014,25,9.0,100.0,Naucalpan de Juárez,directa,29.0153148830137,True,
+Oaxaca de Juárez,Oaxaca,11439,44,6.0,100.0,Oaxaca de Juárez,aproximada/documentada,34.5695383388792,True,
+Santa Cruz Xoxocotlán,Oaxaca,1605,1,6.0,100.0,Oaxaca de Juárez,aproximada/documentada,34.5695383388792,True,
+Santa Lucia del Camino,Oaxaca,10,5,6.0,100.0,Oaxaca de Juárez,aproximada/documentada,34.5695383388792,True,
+Pachuca de Soto,Hidalgo,232,1,1.0,52.38095238095239,Pachuca de Soto,aproximada/documentada,45.2244434785551,False,Menos de 3 establecimientos de autoservicio (1)
+Santiago de Querétaro,Querétaro,10822,39,5.0,100.0,Querétaro,aproximada/documentada,63.9227591536546,True,
+Reynosa,Tamaulipas,12810,27,5.0,100.0,Reynosa,directa,13.4184519776651,True,
+Saltillo,Coahuila,13991,41,5.0,100.0,Saltillo,aproximada/documentada,83.0944271590846,True,
+Campeche,Campeche,16837,50,5.0,100.0,San Francisco de Campeche,directa,33.4288694432137,True,
+San Luis Potosí,San Luis Potosí,14089,41,5.0,100.0,San Luis Potosí,aproximada/documentada,37.4987801883282,True,
+San Nicolás de los Garza,Nuevo León,4211,6,2.0,100.0,San Nicolás de los Garza,directa,82.9863211669019,False,Menos de 3 establecimientos de autoservicio (2)
+Tlaquepaque,Jalisco,357,3,,,San Pedro Tlaquepaque,directa,35.0762968970593,False,Sin establecimientos de autoservicio en PROFECO
+Tampico,Tamaulipas,10589,37,5.0,100.0,Tampico,aproximada/documentada,71.6419667579439,True,
+Ciudad Madero,Tamaulipas,25,5,5.0,100.0,Tampico,aproximada/documentada,71.6419667579439,True,
+Tijuana,Baja California,15254,42,7.0,100.0,Tijuana,directa,32.3678836601262,True,
+Tlalnepantla,Estado de México,8318,19,9.0,100.0,Tlalnepantla de Baz,directa,26.9290408708154,True,
+Tlalpan,Ciudad de México,5734,14,6.0,100.0,Tlalpan,directa,50.2970482214514,True,
+Toluca,Estado de México,5527,29,4.0,100.0,Toluca de Lerdo,aproximada/documentada,28.9317953217626,True,
+Metepec,Estado de México,4005,4,4.0,100.0,Toluca de Lerdo,aproximada/documentada,28.9317953217626,True,
+Lerma,Estado de México,2112,1,4.0,100.0,Toluca de Lerdo,aproximada/documentada,28.9317953217626,True,
+Tonalá,Jalisco,4210,2,2.0,100.0,Tonalá,directa,35.6843078403809,False,Menos de 3 establecimientos de autoservicio (2)
+Tuxtla Gutiérrez,Chiapas,16408,49,5.0,100.0,Tuxtla Gutiérrez,aproximada/documentada,28.8345482531293,True,
+Venustiano Carranza,Ciudad de México,7327,12,5.0,100.0,Venustiano Carranza,directa,43.1744250391754,True,
+Veracruz,Veracruz,12232,38,5.0,100.0,Veracruz,directa,34.7545750669489,True,
+Boca del Río,Veracruz,4989,7,5.0,100.0,Veracruz,directa,34.7545750669489,True,
+Centro,Tabasco,28863,66,9.0,100.0,Villahermosa,aproximada/documentada,15.7873026882737,True,
+Xochimilco,Ciudad de México,1998,9,2.0,95.23809523809523,Xochimilco,directa,30.401846629044,False,Menos de 3 establecimientos de autoservicio (2)
+Zacatecas,Zacatecas,12022,26,6.0,100.0,Zacatecas3,directa,24.0915102034352,True,
+Guadalupe,Zacatecas,3462,21,6.0,100.0,Zacatecas3,directa,24.0915102034352,True,
+Zapopan,Jalisco,5118,16,2.0,100.0,Zapopan,directa,45.4711207663282,False,Menos de 3 establecimientos de autoservicio (2)
+Álvaro Obregón,Ciudad de México,5511,15,6.0,100.0,Álvaro Obregón,directa,39.366211794749,True,
+Tlaxcala,Tlaxcala,11255,29,,,Tlaxcala de Xicohténcatl,no comparable,,False,Sin correspondencia geográfica válida: Área ENSU de 21 municipio(s); este municipio aporta 21.6% de su población de 18+ y los municipios PROFECO del área suman 26.6%. Cobertura menor a 40%: los precios no representarían al área urbana.
+Apizaco,Tlaxcala,3508,15,,,Tlaxcala de Xicohténcatl,no comparable,,False,Sin correspondencia geográfica válida: Área ENSU de 21 municipio(s); este municipio aporta 5.0% de su población de 18+ y los municipios PROFECO del área suman 26.6%. Cobertura menor a 40%: los precios no representarían al área urbana.
+Huixquilucan,Estado de México,8444,4,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.
+Coacalco,Estado de México,3178,3,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.
+Tultitlán,Estado de México,2526,31,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.
+Cuautitlán,Estado de México,1331,4,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.
+Chicoloapan,Estado de México,3,3,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.
+Tecámac,Estado de México,3,3,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.
+Solidaridad,Quintana Roo,7454,29,,,,no comparable,,False,Sin correspondencia geográfica válida: El municipio no forma parte de ningún área urbana de interés ENSU.

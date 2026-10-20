@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+
+# Datos fuente grandes o con distribución restringida
+08-2026_Q2.csv
+data/raw/ensu/microdatos/*.csv
+data/raw/inegi_mg/mg_2024_integrado.zip
+
+# Archivos temporales de ejecución
+*.log
+*.tmp

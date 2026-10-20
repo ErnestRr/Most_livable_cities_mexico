@@ -1,0 +1,34 @@
+{
+  "fuente": "INEGI, Encuesta Nacional de Seguridad Pública Urbana (ENSU)",
+  "periodo": "junio 2026",
+  "levantamiento": "22 de mayo al 12 de junio de 2026 (comunicado INEGI)",
+  "indicador": "Cuadro 1.7: % de población 18+ que se siente segura en su ciudad",
+  "archivos_tabulados": [
+    {
+      "tipo": "estimacion",
+      "url": "https://www.inegi.org.mx/contenidos/programas/ensu/tabulados/2026/ensu_tabulados_basicos_junio_2026_estimacion_xlsx.zip",
+      "zip_local": "junio_2026_estimacion.zip",
+      "sha256_zip": "4e05c0eccfd40fbd63f17b824766493f446dbc3c78e46e6e8da7873c6bb84efe",
+      "libro": "1.Bas_percepcion_seguridad_jun_2026_est.xlsx",
+      "cuadro": "1.7"
+    },
+    {
+      "tipo": "cv",
+      "url": "https://www.inegi.org.mx/contenidos/programas/ensu/tabulados/2026/ensu_tabulados_basicos_junio_2026_coeficiente_xlsx.zip",
+      "zip_local": "junio_2026_coeficiente.zip",
+      "sha256_zip": "38ff949426375d5b7d56c79c4faa47667e8dccd0f5ee40dcb46bae1818e23bbe",
+      "libro": "1.Bas_percepcion_seguridad_jun_2026_cv.xlsx",
+      "cuadro": "1.7"
+    },
+    {
+      "tipo": "intervalos",
+      "url": "https://www.inegi.org.mx/contenidos/programas/ensu/tabulados/2026/ensu_tabulados_basicos_junio_2026_intervalos_xlsx.zip",
+      "zip_local": "junio_2026_intervalos.zip",
+      "sha256_zip": "5f947fc6e7796ca603dbe2189e4c794dcdcbb196ce1aeb239242dea01dc20397",
+      "libro": "1.Bas_percepcion_seguridad_jun_2026_interv.xlsx",
+      "cuadro": "1.7"
+    }
+  ],
+  "microdatos": "https://www.inegi.org.mx/contenidos/programas/ensu/microdatos/ensu_bd_2026_csv.zip",
+  "catalogo_ciudades": "https://www.inegi.org.mx/contenidos/programas/ensu/doc/ensu2025_catalogo_ciudades_interes.pdf"
+}

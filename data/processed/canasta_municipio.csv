@@ -1,0 +1,56 @@
+﻿estado,municipio,area_urbana_ensu,productos_disponibles,productos_canasta,cobertura_pct,establecimientos,costo_canasta,fecha_inicio,fecha_fin
+Estado de México,Nezahualcóyotl,Ciudad Nezahualcóyotl,21.0,21.0,100.0,4.0,944.2862401283743,2026-08-17,2026-08-31
+Baja California Sur,La Paz,La Paz,21.0,21.0,100.0,5.0,967.1903239727149,2026-08-17,2026-08-31
+Estado de México,Ecatepec de Morelos,Ecatepec de Morelos,21.0,21.0,100.0,10.0,973.2865577101844,2026-08-17,2026-08-31
+Jalisco,Tonalá,Tonalá,21.0,21.0,100.0,2.0,975.4094879214534,2026-08-17,2026-08-31
+Aguascalientes,Aguascalientes,Aguascalientes,21.0,21.0,100.0,5.0,981.3107843137254,2026-08-17,2026-08-31
+Guerrero,Acapulco de Juárez,Acapulco de Juárez,21.0,21.0,100.0,5.0,983.5772058823529,2026-08-17,2026-08-31
+Campeche,Campeche,San Francisco de Campeche,21.0,21.0,100.0,5.0,985.6643906020558,2026-08-17,2026-08-31
+Estado de México,"Atizapán de Zaragoza, Atizapán",Atizapán de Zaragoza,21.0,21.0,100.0,5.0,986.706787621333,2026-08-17,2026-08-31
+Baja California,Tijuana,Tijuana,21.0,21.0,100.0,7.0,988.3988576487864,2026-08-17,2026-08-31
+Morelos,Cuernavaca,Cuernavaca,21.0,21.0,100.0,5.0,989.7387002327575,2026-08-17,2026-08-31
+Ciudad de México,Iztapalapa,Iztapalapa,21.0,21.0,100.0,8.0,991.136988005419,2026-08-17,2026-08-31
+Ciudad de México,Venustiano Carranza,Venustiano Carranza,21.0,21.0,100.0,5.0,991.3222222222222,2026-08-17,2026-08-31
+Ciudad de México,Benito Juárez,Benito Juárez,21.0,21.0,100.0,15.0,994.4400679897096,2026-08-17,2026-08-31
+Ciudad de México,Álvaro Obregón,Álvaro Obregón,21.0,21.0,100.0,6.0,996.9676770092454,2026-08-17,2026-08-31
+Chiapas,Tuxtla Gutiérrez,Tuxtla Gutiérrez,21.0,21.0,100.0,5.0,997.3580065359477,2026-08-17,2026-08-31
+Veracruz,"Veracruz, Boca del Río",Veracruz,21.0,21.0,100.0,5.0,997.9758112349198,2026-08-17,2026-08-31
+Oaxaca,"Oaxaca de Juárez, Santa Cruz Xoxocotlán, Santa Lucia del Camino",Oaxaca de Juárez,21.0,21.0,100.0,6.0,998.1797414413636,2026-08-17,2026-08-31
+Ciudad de México,Miguel Hidalgo,Miguel Hidalgo,21.0,21.0,100.0,8.0,1001.2947085936543,2026-08-17,2026-08-31
+Sonora,Hermosillo,Hermosillo,21.0,21.0,100.0,6.0,1001.6215468289485,2026-08-17,2026-08-31
+Guanajuato,León,León de los Aldama,21.0,21.0,100.0,10.0,1002.6964181854827,2026-08-17,2026-08-31
+Estado de México,Tlalnepantla,Tlalnepantla de Baz,21.0,21.0,100.0,9.0,1005.1441775479027,2026-08-17,2026-08-31
+Chihuahua,Juárez,Juárez,21.0,21.0,100.0,6.0,1006.6511464067969,2026-08-17,2026-08-31
+Puebla,Puebla,Heroica Puebla de Zaragoza,21.0,21.0,100.0,5.0,1007.1722222222222,2026-08-17,2026-08-31
+Ciudad de México,Coyoacán,Coyoacán,21.0,21.0,100.0,10.0,1007.3272603425787,2026-08-17,2026-08-31
+Querétaro,Santiago de Querétaro,Querétaro,21.0,21.0,100.0,5.0,1007.8777777777777,2026-08-17,2026-08-31
+Tamaulipas,Reynosa,Reynosa,21.0,21.0,100.0,5.0,1009.7785178459477,2026-08-17,2026-08-31
+Tamaulipas,"Tampico, Ciudad Madero",Tampico,21.0,21.0,100.0,5.0,1011.0733676344481,2026-08-17,2026-08-31
+Sinaloa,Culiacán,Culiacán Rosales,21.0,21.0,100.0,5.0,1011.7036461362502,2026-08-17,2026-08-31
+Estado de México,Cuautitlán Izcalli,Cuautitlán Izcalli,21.0,21.0,100.0,4.0,1012.2595227012829,2026-08-17,2026-08-31
+Tabasco,Centro,Villahermosa,21.0,21.0,100.0,9.0,1012.7598053612047,2026-08-17,2026-08-31
+Ciudad de México,Tlalpan,Tlalpan,21.0,21.0,100.0,6.0,1013.3522115442732,2026-08-17,2026-08-31
+Ciudad de México,Cuauhtémoc,Cuauhtémoc,21.0,21.0,100.0,9.0,1014.1233063824575,2026-08-17,2026-08-31
+Quintana Roo,Benito Juárez,Cancún,21.0,21.0,100.0,6.0,1016.6694250093576,2026-08-17,2026-08-31
+Ciudad de México,Gustavo a. Madero,Gustavo A. Madero,21.0,21.0,100.0,6.0,1016.9530452147783,2026-08-17,2026-08-31
+Jalisco,Zapopan,Zapopan,21.0,21.0,100.0,2.0,1020.0572666463436,2026-08-17,2026-08-31
+Estado de México,Naucalpan de Juárez,Naucalpan de Juárez,21.0,21.0,100.0,9.0,1020.8221252999546,2026-08-17,2026-08-31
+Coahuila,Saltillo,Saltillo,21.0,21.0,100.0,5.0,1021.3793300653595,2026-08-17,2026-08-31
+Yucatán,Mérida,Mérida,21.0,21.0,100.0,5.0,1023.7746732026144,2026-08-17,2026-08-31
+Estado de México,"Toluca, Metepec, Lerma",Toluca de Lerdo,21.0,21.0,100.0,4.0,1025.5094377141459,2026-08-17,2026-08-31
+Durango,Durango,Durango,21.0,21.0,100.0,4.0,1026.0852205882352,2026-08-17,2026-08-31
+Michoacán,Morelia,Morelia,21.0,21.0,100.0,6.0,1026.1427715873426,2026-08-17,2026-08-31
+Chihuahua,Chihuahua,Chihuahua,21.0,21.0,100.0,5.0,1027.9547872770265,2026-08-17,2026-08-31
+Ciudad de México,Azcapotzalco,Azcapotzalco,21.0,21.0,100.0,6.0,1029.9417977707672,2026-08-17,2026-08-31
+Zacatecas,"Zacatecas, Guadalupe",Zacatecas3,21.0,21.0,100.0,6.0,1030.6103084505176,2026-08-17,2026-08-31
+San Luis Potosí,San Luis Potosí,San Luis Potosí,21.0,21.0,100.0,5.0,1036.7833333333333,2026-08-17,2026-08-31
+Jalisco,Guadalajara,Guadalajara,21.0,21.0,100.0,7.0,1037.9358507901507,2026-08-17,2026-08-31
+Nuevo León,San Nicolás de los Garza,San Nicolás de los Garza,21.0,21.0,100.0,2.0,1049.942884500364,2026-08-17,2026-08-31
+Nuevo León,Monterrey,Monterrey,21.0,21.0,100.0,6.0,1067.8393472699627,2026-08-17,2026-08-31
+Nuevo León,General Escobedo,General Escobedo,,,,,,2026-08-17,2026-08-31
+Nuevo León,Guadalupe,Guadalupe,,,,,,2026-08-17,2026-08-31
+Ciudad de México,Iztacalco,Iztacalco,20.0,21.0,95.23809523809523,2.0,,2026-08-17,2026-08-31
+Ciudad de México,Magdalena Contreras,La Magdalena Contreras,19.0,21.0,90.47619047619048,1.0,,2026-08-17,2026-08-31
+Hidalgo,Pachuca de Soto,Pachuca de Soto,11.0,21.0,52.38095238095239,1.0,,2026-08-17,2026-08-31
+Jalisco,Tlaquepaque,San Pedro Tlaquepaque,,,,,,2026-08-17,2026-08-31
+Ciudad de México,Xochimilco,Xochimilco,20.0,21.0,95.23809523809523,2.0,,2026-08-17,2026-08-31

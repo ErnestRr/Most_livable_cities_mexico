@@ -1,0 +1,30 @@
+{
+  "canal": "Supermercado / Tienda de Autoservicio",
+  "min_establecimientos": 3,
+  "productos": [
+    "tortilla_maiz",
+    "huevo_blanco",
+    "leche_entera",
+    "frijol_negro",
+    "frijol_pinto",
+    "arroz",
+    "azucar",
+    "aceite",
+    "harina_maiz",
+    "lenteja",
+    "jitomate",
+    "cebolla",
+    "papa",
+    "chile_serrano",
+    "platano",
+    "manzana",
+    "limon",
+    "pollo_entero",
+    "res_milanesa",
+    "cerdo_chuleta",
+    "pan_caja"
+  ],
+  "fecha_inicio": "2026-08-17",
+  "fecha_fin": "2026-08-31",
+  "metodo": "Opción A: mediana por establecimiento y mediana entre establecimientos"
+}

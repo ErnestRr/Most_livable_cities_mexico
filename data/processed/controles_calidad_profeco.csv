@@ -1,0 +1,16 @@
+﻿control,registros
+duplicados_excedentes_exactos,0
+filas_en_grupos_duplicados,0
+precio_vacio,0
+precio_no_numerico_no_vacio,0
+precio_no_finito_no_nulo,0
+precio_cero_o_negativo,0
+fecha_vacia,0
+fecha_invalida_no_vacia,0
+geografia_incompleta,0
+identidad_establecimiento_incompleta,0
+producto_presentacion_marca_incompleto,0
+coordenadas_faltantes_o_no_numericas,182
+coordenadas_fuera_rango_mundial,0
+coordenadas_cero,0
+variantes_textuales_geograficas_para_revision,0
