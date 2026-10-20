@@ -4,6 +4,13 @@
 seguridad? Proyecto en Python que cruza precios de PROFECO con la Encuesta Nacional de
 Seguridad Pública Urbana (ENSU) de INEGI.
 
+## Reporte interactivo
+
+**[Explorar los resultados, mapas y comparaciones](https://ernestrr.github.io/Most_livable_cities_mexico/)**
+
+El reporte permite consultar las 44 áreas urbanas, comparar costo y seguridad percibida,
+revisar los intervalos de incertidumbre y recorrer la tabla completa de resultados.
+
 ![Gráfica principal](outputs/social/grafica_principal_1600x900.png)
 
 ## Resultados
@@ -59,50 +66,10 @@ mexico-costo-canasta/
 ├── outputs/social/             Gráfica principal 1080×1350 y 1600×900 (PNG 200 DPI y SVG)
 ├── outputs/charts/             13 gráficas: exploratorias (00a–01), rankings, dispersión,
 │                               rango de precios por tienda, mapa de calor, cadenas, tabla y mapas municipales
-├── docs/index.html             Página interactiva autocontenida (opcional)
+├── docs/index.html             Reporte interactivo publicado en GitHub Pages
 ├── build_notebook.py, build_notebooks.py   Generan los notebooks 00 y 01–05
 └── verify_phase1.py, verify_project.py     Verificaciones independientes
 ```
-
-## Reproducir en Windows / VS Code
-
-Python 3.13. Abrir la carpeta en VS Code y elegir `.venv/Scripts/python.exe` como
-intérprete y kernel.
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements-lock.txt
-```
-
-Colocar `08-2026_Q2.csv` en `data/raw/`. Los archivos ENSU ya están en
-`data/raw/ensu/`; si faltan, el notebook 01 los descarga de INEGI. Los límites
-municipales (`00mun`, `00ent`) están en `data/raw/inegi_mg/`; para reconstruirlos ver
-`data/raw/README.md`.
-
-Ejecutar los notebooks **en orden**: cada uno lee lo que exportó el anterior.
-
-```powershell
-foreach ($n in "00_exploracion_profeco","01_auditoria_cobertura","02_canasta_comparable",
-               "03_limpieza_transformacion","04_analisis","05_visualizaciones") {
-  .\.venv\Scripts\python.exe -m jupyter nbconvert --to notebook --execute --inplace `
-    --ExecutePreprocessor.timeout=1200 "notebooks/$n.ipynb"
-}
-.\.venv\Scripts\python.exe verify_project.py
-```
-
-El proceso completo tarda unos dos minutos.
-
-**Ver los resultados:**
-
-- Las gráficas se ven directamente en los notebooks y se guardan en `outputs/`.
-  Todas siguen una plantilla común (`src/charts.py`): título con negritas, subtítulo,
-  contorno, cuadrícula donde aplica, leyenda, recuadro de estadísticas y pie con fuente y
-  un dato agregado. Los mapas añaden océano, países vecinos, contornos estatales,
-  barra de color y recuadros ampliados.
-- Para firmar las gráficas con tu usuario, asigna `FIRMA = "@tu_usuario"` en
-  `src/charts.py` y vuelve a ejecutar el notebook 05.
-- Opcional: `docs/index.html` es una versión interactiva autocontenida (unos 7 MB) que
-  se abre con doble clic.
 
 ## Fuentes
 
